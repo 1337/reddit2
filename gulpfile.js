@@ -1,11 +1,16 @@
 // http://mherman.org/blog/2014/08/14/kickstarting-angular-with-gulp/
 var gulp = require('gulp'),
     browserify = require('gulp-browserify'),
+    changed = require('gulp-changed'),
+    clean = require('gulp-clean'),
+    concat = require('gulp-concat'),
     connect = require('gulp-connect'),
     jshint = require('gulp-jshint'),
-    uglify = require('gulp-uglify'),
+    livereload = require('gulp-livereload'),
     minifyCSS = require('gulp-minify-css'),
-    clean = require('gulp-clean');
+    sourcemaps = require('gulp-sourcemaps'),
+    uglify = require('gulp-uglify'),
+    watch = require('gulp-watch');
 
 // tasks
 gulp.task('lint', function () {
@@ -15,8 +20,8 @@ gulp.task('lint', function () {
         .pipe(jshint.reporter('fail'));
 });
 gulp.task('clean', function () {
-    gulp.src('./dist/*')
-        .pipe(clean({force: true}));
+    gulp.src('./dist/**/*')
+        .pipe(clean({force: true, read: false}));
 });
 gulp.task('minify-css', function () {
     var opts = {comments: true, spare: true};
@@ -31,6 +36,7 @@ gulp.task('minify-js', function () {
             // inSourceMap:
             // outSourceMap: "app.js.map"
         }))
+        .pipe(concat('./js/all.js'))
         .pipe(gulp.dest('./dist/'))
 });
 gulp.task('copy-bower-components', function () {
@@ -42,27 +48,27 @@ gulp.task('copy-html-files', function () {
         .pipe(gulp.dest('dist/'));
 });
 gulp.task('connect', ['build'], function () {
-    console.log('connect');
     connect.server({
-        root: 'app/',
+        root: 'dist/',
         port: 8080
     });
 });
 gulp.task('connectDist', ['build'], function () {
-    console.log('connectDist');
     connect.server({
         root: 'dist/',
-        port: 9090
+        port: 8080
     });
 });
 
 // build task
-gulp.task('build',
-    ['lint', 'minify-css', 'minify-js', 'copy-html-files',
-     'copy-bower-components']
-);
+gulp.task('build', [
+    'lint', 'minify-css', 'minify-js', 'copy-html-files',
+    'copy-bower-components'
+]);
 
 // default task
 gulp.task('default', ['lint', 'connect'], function () {
-    console.log('default');
+    gulp.watch('app/**').on('change', function () {
+        gulp.start('build');
+    });
 });
