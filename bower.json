@@ -5,7 +5,7 @@
     "Brian Lai <b2lai@uwaterloo.ca>"
   ],
   "description": "reddit2",
-  "main": "src/main.js",
+  "main": "src/init.js",
   "license": "GPL-3.0",
   "homepage": "http://ohai.ca",
   "private": true,
@@ -18,11 +18,16 @@
   ],
   "dependencies": {
     "jquery": "~2.1.1",
-    "angular": "~1.3.0",
-    "angular-animate": "~1.3.0",
-    "angular-route": "~1.3.0",
+    "angular": "~1.2.26",
+    "angular-animate": "~1.2.26",
+    "angular-route": "~1.2.26",
     "animate.css": "~3.2.0",
     "bootstrap": "~3.2.0",
-    "fontawesome": "~4.2.0"
+    "fontawesome": "~4.2.0",
+    "angular-resource": "~1.2",
+    "underscore": "~1.7.0",
+    "requirejs": "~2.1.15",
+    "imagesloaded": "~3.1.8",
+    "modernizr": "~2.8.3"
   }
 }

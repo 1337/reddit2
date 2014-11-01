@@ -1,8 +1,10 @@
 // http://mherman.org/blog/2014/08/14/kickstarting-angular-with-gulp/
 var gulp = require('gulp'),
+    gutil = require('gutil'),
     browserify = require('gulp-browserify'),
     changed = require('gulp-changed'),
     clean = require('gulp-clean'),
+    coffee = require('gulp-coffee'),
     concat = require('gulp-concat'),
     connect = require('gulp-connect'),
     jshint = require('gulp-jshint'),
@@ -39,6 +41,11 @@ gulp.task('minify-js', function () {
         .pipe(concat('./js/all.js'))
         .pipe(gulp.dest('./dist/'))
 });
+gulp.task('coffee', function () {
+    gulp.src(['./app/**/*.coffee', '!./app/components/**'])
+        .pipe(coffee({bare: true}).on('error', gutil.log))
+        .pipe(gulp.dest('./app/'))
+});
 gulp.task('copy-bower-components', function () {
     gulp.src('./app/components/**')
         .pipe(gulp.dest('dist/components'));
@@ -53,6 +60,12 @@ gulp.task('connect', ['build'], function () {
         port: 8080
     });
 });
+gulp.task('server', function () {
+    connect.server({
+        root: 'app/',
+        port: 8000
+    });
+});
 gulp.task('connectDist', ['build'], function () {
     connect.server({
         root: 'dist/',
@@ -62,7 +75,7 @@ gulp.task('connectDist', ['build'], function () {
 
 // build task
 gulp.task('build', [
-    'lint', 'minify-css', 'minify-js', 'copy-html-files',
+    'lint', 'minify-css', 'coffee', 'minify-js', 'copy-html-files',
     'copy-bower-components'
 ]);
 
