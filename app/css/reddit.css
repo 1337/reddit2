@@ -22,3 +22,9 @@ body {
 .post .label {
   float: right;
 }
+.post p,
+.post li {
+  font-size: 80%;
+  line-height: 120%;
+  color: 222;
+}

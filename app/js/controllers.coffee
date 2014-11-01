@@ -13,7 +13,7 @@ define ['angular', 'jquery'], (angular, $) ->
         $scope.getImageUrl = (url) ->
             if 'imgur' in url
                 if '.' not in url[-5..]  # no extension
-                    url = url + '.jpg'
+                    url = url.replace(/imgur/, 'i.imgur') + '.jpg'
                 url
 
             if 'gfycat' in url

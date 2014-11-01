@@ -1,0 +1,14 @@
+{
+  "name": "angular-images-loaded",
+  "homepage": "https://github.com/bimal1331/angular-images-loaded",
+  "_release": "0efbb7d98a",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "0efbb7d98a77645cbd8c6ca4da59a47970fda833"
+  },
+  "_source": "https://github.com/bimal1331/angular-images-loaded.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/bimal1331/angular-images-loaded.git",
+  "_direct": true
+}

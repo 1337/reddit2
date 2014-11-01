@@ -2,672 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02e32fab-c0ca-4c68-9688-031ab2a98a74" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/fontawesome/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/media/Modernizr 2 Logo.ai" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/media/Modernizr 2 Logo.eps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/media/Modernizr 2 Logo.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/media/Modernizr 2 Logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/Windsong-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/Windsong-webfont.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/Windsong-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/Windsong-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/alpha.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/angular/angular.min.js.gzip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/apng_test.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/before-after.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/fontawesome/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/fontawesome/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/fontawesome/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/green5x5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/mathml_ref.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/png_alpha_result.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/red30x30.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/ruby.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/stroked-text.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/svg-html-blur.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/svg_blur.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/table.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/text-shadow1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/text-shadow2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/windsong_font.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/angular/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/angular-animate/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/angular-bootstrap/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/angular-foundation/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/angular-resource/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/angular-route/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/eventEmitter/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/eventie/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/fastclick/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/fontawesome/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/imagesloaded/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery-placeholder/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery.cookie/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/ngInfiniteScroll/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/normalize.css/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/requirejs/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/underscore/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/underscore/.eslintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery-placeholder/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/fontawesome/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery-placeholder/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/ngInfiniteScroll/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/underscore/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/fontawesome/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/ngInfiniteScroll/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/data/Data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/eventEmitter/EventEmitter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/eventEmitter/EventEmitter.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/ngInfiniteScroll/Gruntfile.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/Gruntfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/Gruntfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/imagesloaded/Gruntfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/ngInfiniteScroll/Gruntfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery-placeholder/LICENSE-MIT.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/normalize.css/LICENSE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/fastclick/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/ngInfiniteScroll/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/underscore/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/MIT-LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/media/Modernizr 2 Logo.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/angular/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/angular-animate/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/angular-resource/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/angular-route/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/eventEmitter/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/eventie/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/fastclick/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/imagesloaded/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery-placeholder/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/ngInfiniteScroll/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/normalize.css/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/requirejs/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/underscore/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/effects/Tween.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/Windsong-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_accordion.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_alert-boxes.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/_base.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_block-grid.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/fontawesome/scss/_bordered-pulled.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_breadcrumbs.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_button-groups.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_buttons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_clearing.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/fontawesome/scss/_core.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_dropdown-buttons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_dropdown.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/manipulation/_evalUrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/fontawesome/scss/_extras.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/fontawesome/scss/_fixed-width.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_flex-video.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_forms.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/scss/foundation/_functions.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_global.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_grid.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_icon-bar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/fontawesome/scss/_icons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_inline-lists.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_joyride.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_keystrokes.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_labels.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/fontawesome/scss/_larger.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/fontawesome/scss/_list.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_magellan.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/fontawesome/scss/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_offcanvas.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_orbit.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_pagination.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_panels.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/fontawesome/scss/_path.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_pricing-tables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_progress-bars.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_range-slider.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_reveal.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/fontawesome/scss/_rotated-flipped.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/scss/foundation/_settings.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_side-nav.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/fontawesome/scss/_spinning.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_split-buttons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/fontawesome/scss/_stacked.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_sub-nav.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_switches.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_tables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_tabs.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_thumbs.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_toolbar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_tooltips.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_top-bar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_type.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/fontawesome/scss/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_visibility.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/a-download.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/data/accepts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/core/access.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/css/addGetHookIf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/js/affix.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/ajax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/js/alert.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/alerts.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/mixins/alerts.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/event/alias.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/exports/amd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/angular-animate/angular-animate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/angular-animate/angular-animate.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/angular-animate/angular-animate.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/angular/angular-csp.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/ngInfiniteScroll/test/lib/angular-mocks.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/angular-resource/angular-resource.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/angular-resource/angular-resource.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/angular-resource/angular-resource.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/angular-route/angular-route.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/angular-route/angular-route.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/angular-route/angular-route.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/angular/angular.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/ngInfiniteScroll/test/lib/angular.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/angular/angular.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/angular/angular.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/animate-config.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/animate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/animate.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/effects/animatedSelector.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/var/arr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/attributes/attr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/attributes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/audio-audiodata-api.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/audio-webaudio-api.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/mixins/background-variant.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/badges.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/test/basic.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/test/js/basic.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/battery-api.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/battery-level.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/blob-constructor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/dist/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/dist/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/dist/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/dist/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/dist/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/dist/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/bootstrap.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/dist/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/dist/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/mixins/border-radius.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/fontawesome/less/bordered-pulled.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/attention_seekers/bounce.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/bouncing_entrances/bounceIn.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/bouncing_entrances/bounceInDown.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/bouncing_entrances/bounceInLeft.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/bouncing_entrances/bounceInRight.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/bouncing_entrances/bounceInUp.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/bouncing_exits/bounceOut.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/bouncing_exits/bounceOutDown.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/bouncing_exits/bounceOutLeft.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/bouncing_exits/bounceOutRight.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/bouncing_exits/bounceOutUp.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/angular/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/angular-animate/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/angular-bootstrap/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/angular-foundation/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/angular-resource/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/angular-route/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/eventEmitter/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/eventie/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/fastclick/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/fontawesome/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/imagesloaded/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery-placeholder/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery.cookie/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/ngInfiniteScroll/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/normalize.css/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/requirejs/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/underscore/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/breadcrumbs.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/grunt/bs-glyphicons-data-generator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/grunt/bs-lessdoc-parser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/grunt/bs-raw-files-generator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/button-groups.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/js/button.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/buttons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/mixins/buttons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/callbacks.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/test/caniuse.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/canvas-todataurl-type.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/js/carousel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/carousel.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/mixins/center-block.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/var/class2type.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/attributes/classes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/mixins/clearfix.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/close.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/code.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/js/collapse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/component-animations.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/eventEmitter/component.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/underscore/component.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/var/concat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/contenteditable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/contentsecuritypolicy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/contextmenu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/cookies.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/core.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/fontawesome/less/core.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/cors.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-backgroundposition-shorthand.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-backgroundposition-xy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-backgroundrepeat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-backgroundsizecover.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-boxsizing.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-calc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-cubicbezierrange.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-displayrunin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-displaytable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-filters.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-hyphens.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-lastchild.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-mask.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-mediaqueries.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-objectfit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-overflow-scrolling.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-pointerevents.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-positionsticky.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-regions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-remunit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-resize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-scrollbars.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-shapes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-subpixelfont.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-supports.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-userselect.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-vhunit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-vmaxunit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-vminunit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-vwunit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/css.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/css/var/cssExpand.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/css/curCSS.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/custom-protocol-handler.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/dart.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/data/var/data_priv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/data/var/data_user.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/dataview-api.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/css/defaultDisplay.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/deferred.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/queue/delay.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery-placeholder/demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/deprecated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/test/js/lib/detect-global.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/dimensions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/dom-classlist.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/dom-createElement-attrs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/dom-dataset.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/dom-microdata.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/js/dropdown.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/dropdowns.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/test/js/dumpdata.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/effects.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/elem-datalist.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/elem-details.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/elem-output.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/elem-progress-meter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/elem-ruby.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/elem-time.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/elem-track.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/emoji.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/es5-strictmode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/event-deviceorientation-motion.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/event.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/eventie/eventie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/exif-orientation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/fontawesome/less/extras.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/fading_entrances/fadeIn.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/fading_entrances/fadeInDown.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/fading_entrances/fadeInDownBig.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/fading_entrances/fadeInLeft.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/fading_entrances/fadeInLeftBig.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/fading_entrances/fadeInRight.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/fading_entrances/fadeInRightBig.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/fading_entrances/fadeInUp.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/fading_entrances/fadeInUpBig.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/fading_exits/fadeOut.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/fading_exits/fadeOutDown.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/fading_exits/fadeOutDownBig.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/fading_exits/fadeOutLeft.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/fading_exits/fadeOutLeftBig.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/fading_exits/fadeOutRight.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/fading_exits/fadeOutRightBig.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/fading_exits/fadeOutUp.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/fading_exits/fadeOutUpBig.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/fastclick/lib/fastclick.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/js/vendor/fastclick.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/file-api.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/file-filesystem.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/traversing/findFilter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/fontawesome/less/fixed-width.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/attention_seekers/flash.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/flippers/flip.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/flippers/flipInX.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/flippers/flipInY.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/flippers/flipOutX.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/flippers/flipOutY.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/fontawesome/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/fontawesome/less/font-awesome.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/fontawesome/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/fontawesome/scss/font-awesome.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/fontawesome/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/form_validation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/forms-fileinput.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/forms-formattribute.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/forms-inputnumber-l10n.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/forms-placeholder.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/forms-speechinput.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/forms-validation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/forms.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/mixins/forms.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/js/foundation/foundation.abide.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/js/foundation/foundation.accordion.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/js/foundation/foundation.alert.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/js/foundation/foundation.clearing.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/css/foundation.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/js/foundation/foundation.dropdown.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/js/foundation/foundation.equalizer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/js/foundation/foundation.interchange.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/js/foundation/foundation.joyride.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/js/foundation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/js/foundation/foundation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/js/foundation/foundation.magellan.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/js/foundation.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/js/foundation/foundation.offcanvas.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/js/foundation/foundation.orbit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/js/foundation/foundation.reveal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/scss/foundation.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/js/foundation/foundation.slider.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/js/foundation/foundation.tab.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/js/foundation/foundation.tooltip.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/js/foundation/foundation.topbar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/fullscreen-api.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/ga.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/gamepad.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/css/var/getStyles.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/getusermedia.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/exports/global.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/glyphicons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/mixins/gradients.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/mixins/grid-framework.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/grid.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/mixins/grid.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/grunt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/var/hasOwn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/hashchange.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/css/hiddenVisibleSelectors.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/mixins/hide-text.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/specials/hinge.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/fontawesome/less/icons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/ie8compat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/iframe-sandbox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/iframe-seamless.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/iframe-srcdoc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/mixins/image.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/imagesloaded/imagesloaded.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/imagesloaded/imagesloaded.pkgd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/imagesloaded/imagesloaded.pkgd.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/img-apng.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/img-webp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery-placeholder/tests/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/var/indexOf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/ngInfiniteScroll/src/infinite-scroll.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/ngInfiniteScroll/src/infinite-scroll.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/core/init.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/input-groups.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/install.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/intro.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/css/var/isHidden.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/test/js/lib/jquery-1.7b2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/js/vendor/jquery.cookie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery.cookie/jquery.cookie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/js/vendor/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/dist/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/ngInfiniteScroll/test/lib/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/dist/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/dist/jquery.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery-placeholder/jquery.placeholder.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/json.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/ajax/jsonp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/test/js/lib/jsonselect.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/jumbotron.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/labels.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/mixins/labels.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/fontawesome/less/larger.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/lightspeed/lightSpeedIn.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/lightspeed/lightSpeedOut.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/list-group.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/mixins/list-group.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/fontawesome/less/list.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/lists-reversed.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/ajax/load.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/manipulation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/mathml.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/mathml.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/media.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/fontawesome/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/angular-foundation/mm-foundation-tpls.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/angular-foundation/mm-foundation-tpls.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/angular-foundation/mm-foundation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/angular-foundation/mm-foundation.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/js/modal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/modals.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/modernizr-1.7.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/js/vendor/modernizr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/modernizr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/mixins/nav-divider.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/mixins/nav-vertical-align.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/navbar.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/navs.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/network-connection.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/network-eventsource.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/network-xhr2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/ngInfiniteScroll/build/ng-infinite-scroll.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/ngInfiniteScroll/build/ng-infinite-scroll.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/ajax/var/nonce.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/css/normalize.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/normalize.css/normalize.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/normalize.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/scss/normalize.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/notification.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/offset.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/mixins/opacity.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/outro.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/angular/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/angular-animate/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/ngInfiniteScroll/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/underscore/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/pager.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/pagination.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/mixins/pagination.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/panels.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/mixins/panels.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/core/parseHTML.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/ajax/parseJSON.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/ajax/parseXML.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/fontawesome/less/path.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/performance.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/foundation/js/vendor/placeholder.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/var/pnum.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/pointerlock-api.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/test/js/lib/polyfills.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/js/popover.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/popovers.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/print.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/mixins/progress-bar.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/progress-bars.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/attributes/prop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/attention_seekers/pulse.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/var/push.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/pushstate.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/queue.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/test/qunit/qunit.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/test/qunit/qunit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/quota-management-api.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/manipulation/var/rcheckableType.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/core/ready.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/requestanimationframe.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/requirejs/require.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/mixins/reset-filter.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/mixins/resize.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/responsive-embed.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/responsive-utilities.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/mixins/responsive-visibility.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/css/var/rmargin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/traversing/var/rneedsContext.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/var/rnotwhite.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/css/var/rnumnonpx.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/specials/rollIn.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/specials/rollOut.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/rotating_entrances/rotateIn.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/rotating_entrances/rotateInDownLeft.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/rotating_entrances/rotateInDownRight.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/rotating_entrances/rotateInUpLeft.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/rotating_entrances/rotateInUpRight.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/rotating_exits/rotateOut.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/rotating_exits/rotateOutDownLeft.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/rotating_exits/rotateOutDownRight.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/rotating_exits/rotateOutUpLeft.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/rotating_exits/rotateOutUpRight.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/fontawesome/less/rotated-flipped.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/ajax/var/rquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/core/var/rsingleTag.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/attention_seekers/rubberBand.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/test/qunit/run-qunit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/grunt/sauce_browsers.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/scaffolding.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/script-async.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/script-defer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/ajax/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/js/scrollspy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/selector-native.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/selector-sizzle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/selector.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/serialize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/test/js/setup.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/attention_seekers/shake.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/ngInfiniteScroll/test/lib/sinon-chai.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/ngInfiniteScroll/test/lib/sinon.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/mixins/size.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/sizzle/dist/sizzle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/sizzle/dist/sizzle.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/sizzle/dist/sizzle.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/var/slice.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/fontawesome/less/spinning.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/fontawesome/less/stacked.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/var/strundefined.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/style-scoped.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/attributes/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/css/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/event/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/manipulation/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/var/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/svg-filters.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/svg-img.svg.1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/svg-img.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/css/swap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/attention_seekers/swing.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/mixins/tab-focus.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/js/tab.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/mixins/table-row.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/tables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/attention_seekers/tada.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/eventie/test.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/ngInfiniteScroll/test/test_infinite_scroll.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/ngInfiniteScroll/test/test_infinite_scroll.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/ngInfiniteScroll/test/test_infinite_scroll_throttling.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/ngInfiniteScroll/test/test_infinite_scroll_throttling.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/ngInfiniteScroll/test/testacular.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery-placeholder/tests/tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/mixins/text-emphasis.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/mixins/text-overflow.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/theme.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/thumbnails.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/var/toString.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/js/tooltip.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/tooltip.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/js/transition.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/traversing.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/type.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/test/js/lib/uaparser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/angular-bootstrap/ui-bootstrap-tpls.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/angular-bootstrap/ui-bootstrap-tpls.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/angular-bootstrap/ui-bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/angular-bootstrap/ui-bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/underscore/underscore-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/underscore/underscore-min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/underscore/underscore.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/unicode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/test/js/unit-caniuse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/test/js/unit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/url-data-uri.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/userdata.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/utilities.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/attributes/val.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/fontawesome/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/mixins/vendor-prefixes.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/vibration.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/web-intents.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/webgl-extensions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/websockets-binary.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/bootstrap/less/wells.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/window-framed.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/attention_seekers/wobble.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/workers-blobworkers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/workers-dataworkers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/feature-detects/workers-sharedworkers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/wrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/jquery/src/ajax/xhr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/xhtml.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/zooming_entrances/zoomIn.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/zooming_entrances/zoomInDown.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/zooming_entrances/zoomInLeft.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/zooming_entrances/zoomInRight.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/zooming_entrances/zoomInUp.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/zooming_exits/zoomOut.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/zooming_exits/zoomOutDown.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/zooming_exits/zoomOutLeft.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/zooming_exits/zoomOutRight.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/animate.css/source/zooming_exits/zoomOutUp.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/app.coffee" afterPath="$PROJECT_DIR$/app/js/app.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/app.js" afterPath="$PROJECT_DIR$/app/js/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/controllers.coffee" afterPath="$PROJECT_DIR$/app/js/controllers.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/controllers.js" afterPath="$PROJECT_DIR$/app/js/controllers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/partials/home.html" afterPath="$PROJECT_DIR$/app/partials/home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/init.coffee" afterPath="$PROJECT_DIR$/app/js/init.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/init.js" afterPath="$PROJECT_DIR$/app/js/init.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/css/reddit.css" afterPath="$PROJECT_DIR$/app/css/reddit.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/css/reddit.styl" afterPath="$PROJECT_DIR$/app/css/reddit.styl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/services.coffee" afterPath="$PROJECT_DIR$/app/js/services.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/services.js" afterPath="$PROJECT_DIR$/app/js/services.js" />
     </list>
     <ignored path="reddit2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -689,10 +34,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="init.coffee" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="init.coffee" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/js/init.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="67" selection-start="1745" selection-end="1745" vertical-scroll-proportion="0.0" vertical-offset="42" max-vertical-offset="1497">
+            <state line="40" column="28" selection-start="1793" selection-end="1793" vertical-scroll-proportion="0.40986133" vertical-offset="294" max-vertical-offset="1517">
               <folding />
             </state>
           </provider>
@@ -710,7 +55,7 @@
       <file leaf-file-name="home.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/partials/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="266" selection-end="266" vertical-scroll-proportion="-4.2608695" vertical-offset="0" max-vertical-offset="1012">
+            <state line="6" column="30" selection-start="282" selection-end="282" vertical-scroll-proportion="-3.652174" vertical-offset="0" max-vertical-offset="1004">
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
@@ -722,16 +67,16 @@
       <file leaf-file-name="reddit.styl" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/css/reddit.styl">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="20" selection-start="379" selection-end="379" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1007">
+            <state line="30" column="18" selection-start="458" selection-end="458" vertical-scroll-proportion="0.0" vertical-offset="1" max-vertical-offset="1055">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="13" selection-start="63" selection-end="63" vertical-scroll-proportion="0.10785824" vertical-offset="0" max-vertical-offset="705">
+            <state line="5" column="13" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="705">
               <folding />
             </state>
           </provider>
@@ -740,7 +85,7 @@
       <file leaf-file-name="routes.coffee" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/js/routes.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="25" selection-start="207" selection-end="207" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="769">
+            <state line="8" column="7" selection-start="290" selection-end="290" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="747">
               <folding />
             </state>
           </provider>
@@ -749,7 +94,7 @@
       <file leaf-file-name="services.coffee" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/js/services.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="5" selection-start="903" selection-end="903" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1007">
+            <state line="13" column="21" selection-start="494" selection-end="494" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1083">
               <folding />
             </state>
           </provider>
@@ -758,7 +103,7 @@
       <file leaf-file-name="directives.coffee" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/js/directives.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="29" selection-start="149" selection-end="156" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="727">
+            <state line="3" column="29" selection-start="149" selection-end="156" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="705">
               <folding />
             </state>
           </provider>
@@ -767,11 +112,8 @@
       <file leaf-file-name="controllers.coffee" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/js/controllers.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="19" selection-start="723" selection-end="723" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1021">
-              <folding>
-                <marker date="1414875398305" expanded="true" signature="310:767" placeholder="..." />
-                <marker date="1414875398305" expanded="true" signature="468:566" placeholder="..." />
-              </folding>
+            <state line="1" column="0" selection-start="46" selection-end="46" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="999">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -779,10 +121,8 @@
       <file leaf-file-name="app.coffee" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/js/app.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="26" selection-start="422" selection-end="422" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="867">
-              <folding>
-                <marker date="1414874118350" expanded="true" signature="255:487" placeholder="..." />
-              </folding>
+            <state line="0" column="100" selection-start="100" selection-end="100" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="845">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -827,15 +167,15 @@
         <option value="$PROJECT_DIR$/app/css/main.css" />
         <option value="$PROJECT_DIR$/bower.json" />
         <option value="$PROJECT_DIR$/app/partials/nav.html" />
-        <option value="$PROJECT_DIR$/app/js/app.coffee" />
-        <option value="$PROJECT_DIR$/app/js/init.coffee" />
-        <option value="$PROJECT_DIR$/app/js/services.coffee" />
-        <option value="$PROJECT_DIR$/app/js/controllers.coffee" />
         <option value="$PROJECT_DIR$/app/css/main.styl" />
         <option value="$PROJECT_DIR$/app/index.html" />
-        <option value="$PROJECT_DIR$/app/partials/home.html" />
-        <option value="$PROJECT_DIR$/app/css/reddit.styl" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/app/js/controllers.coffee" />
+        <option value="$PROJECT_DIR$/app/js/services.coffee" />
+        <option value="$PROJECT_DIR$/app/css/reddit.styl" />
+        <option value="$PROJECT_DIR$/app/partials/home.html" />
+        <option value="$PROJECT_DIR$/app/js/app.coffee" />
+        <option value="$PROJECT_DIR$/app/js/init.coffee" />
       </list>
     </option>
   </component>
@@ -960,10 +300,6 @@
               <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="routes.coffee" />
-              <option name="myItemType" value="com.intellij.plugins.watcher.projectView.NestingTreeNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -984,28 +320,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="init.coffee" />
-              <option name="myItemType" value="com.intellij.plugins.watcher.projectView.NestingTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="reddit2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="reddit2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="directives.coffee" />
               <option name="myItemType" value="com.intellij.plugins.watcher.projectView.NestingTreeNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1095,6 +409,46 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="main.styl" />
               <option name="myItemType" value="com.intellij.plugins.watcher.projectView.NestingTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reddit2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reddit2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reddit2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reddit2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-images-loaded" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -1582,56 +936,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/js/init.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="67" selection-start="1745" selection-end="1745" vertical-scroll-proportion="0.0" vertical-offset="42" max-vertical-offset="1497">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/js/app.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="26" selection-start="422" selection-end="422" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="867">
-          <folding>
-            <marker date="1414874118350" expanded="true" signature="255:487" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/js/controllers.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="19" selection-start="723" selection-end="723" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1021">
-          <folding>
-            <marker date="1414875398305" expanded="true" signature="310:767" placeholder="..." />
-            <marker date="1414875398305" expanded="true" signature="468:566" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/js/directives.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="29" selection-start="149" selection-end="156" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="727">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/js/routes.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="25" selection-start="207" selection-end="207" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="769">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/css/main.styl">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="19" selection-start="95" selection-end="95" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="685">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/partials/nav.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="53" selection-start="821" selection-end="821" vertical-scroll-proportion="-14.608696" vertical-offset="0" max-vertical-offset="1138">
           <folding />
         </state>
       </provider>
@@ -1652,16 +959,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="13" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="705">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/routes.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="7" selection-start="290" selection-end="290" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="747">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/partials/nav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="53" selection-start="821" selection-end="821" vertical-scroll-proportion="-14.608696" vertical-offset="0" max-vertical-offset="1138">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/directives.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="29" selection-start="149" selection-end="156" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="727">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/js/services.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="5" selection-start="903" selection-end="903" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1007">
+        <state line="13" column="21" selection-start="494" selection-end="494" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1083">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/css/reddit.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="18" selection-start="458" selection-end="458" vertical-scroll-proportion="0.0" vertical-offset="1" max-vertical-offset="1055">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/partials/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="266" selection-end="266" vertical-scroll-proportion="-4.2608695" vertical-offset="0" max-vertical-offset="1012">
+        <state line="6" column="30" selection-start="282" selection-end="282" vertical-scroll-proportion="-3.652174" vertical-offset="0" max-vertical-offset="1004">
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
@@ -1669,16 +1011,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/css/reddit.styl">
+    <entry file="file://$PROJECT_DIR$/app/js/controllers.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="20" selection-start="379" selection-end="379" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1007">
+        <state line="1" column="0" selection-start="46" selection-end="46" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="999">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/app/js/app.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="13" selection-start="63" selection-end="63" vertical-scroll-proportion="0.10785824" vertical-offset="0" max-vertical-offset="705">
+        <state line="0" column="100" selection-start="100" selection-end="100" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="845">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/init.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="28" selection-start="1793" selection-end="1793" vertical-scroll-proportion="0.40986133" vertical-offset="294" max-vertical-offset="1517">
           <folding />
         </state>
       </provider>

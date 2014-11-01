@@ -14,7 +14,8 @@
       'angular-bootstrap': 'components/angular-bootstrap/ui-bootstrap.min',
       'angular-foundation': 'components/angular-foundation/mm-foundation.min',
       'angular-foundation-tpls': 'components/angular-foundation/mm-foundation-tpls.min',
-      'angular-infinite-scroll': 'components/ngInfiniteScroll/build/ng-infinite-scroll',
+      'angular-images-loaded': 'components/angular-images-loaded/imagesLoaded.min',
+      'angular-infinite-scroll': 'components/ngInfiniteScroll/build/ng-infinite-scroll.min',
       'angular-resource': 'components/angular-resource/angular-resource.min',
       'angular-route': 'components/angular-route/angular-route.min',
       'bootstrap': 'components/bootstrap/dist/js/bootstrap.min',
@@ -40,6 +41,9 @@
       },
       'angular-foundation-tpls': {
         deps: ['angular', 'angular-foundation']
+      },
+      'angular-images-loaded': {
+        deps: ['angular']
       },
       'angular-infinite-scroll': {
         deps: ['angular']

@@ -17,7 +17,7 @@
           var extension;
           if (__indexOf.call(url, 'imgur') >= 0) {
             if (__indexOf.call(url.slice(-5), '.') < 0) {
-              url = url + '.jpg';
+              url = url.replace(/imgur/, 'i.imgur') + '.jpg';
             }
             url;
           }

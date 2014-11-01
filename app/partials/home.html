@@ -3,7 +3,7 @@
          infinite-scroll-disabled='reddit.loading'
          infinite-scroll-distance='1'>
 
-        <div class="post" ng-repeat='item in reddit.items'>
+        <div class="post" data-images-loaded ng-repeat='item in reddit.items'>
             <span class='title'>
                 <span class='score radius success label'>{{item.score}}</span>
                 <span class='score radius label'>{{item.subreddit}}</span>
@@ -14,6 +14,7 @@
                      alt="{{item.title}}"
                      style="width:100%"/>
             </div>
+            <div ng-bind-html="item.selftext_html"></div>
             <div>
                 <small>{{item.author}} |
                     <a ng-href='http://reddit.com{{item.permalink}}'

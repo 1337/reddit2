@@ -1,4 +1,4 @@
-define ['angular', 'angular-route', 'angular-resource', 'angular-foundation', 'angular-infinite-scroll'
+define ['angular', 'angular-route', 'angular-resource', 'angular-foundation', 'angular-images-loaded', 'angular-infinite-scroll'
         'controllers', 'directives', 'services'], (angular) ->
 
     # update this list if you get this:
