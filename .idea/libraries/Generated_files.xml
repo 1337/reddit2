@@ -1,0 +1,97 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/node_modules/browserify/node_modules/resolve/test/resolver/mug.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/resolver/cup.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/browserify/node_modules/umd/node_modules/rfile/node_modules/resolve/test/resolver/cup.js" />
+        <item url="file://$PROJECT_DIR$/app/components/ngInfiniteScroll/test/test_infinite_scroll_throttling.js" />
+        <item url="file://$PROJECT_DIR$/app/components/ngInfiniteScroll/test/test_infinite_scroll.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/test/fixtures/test.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/browserify/node_modules/resolve/test/resolver/cup.js" />
+        <item url="file://$PROJECT_DIR$/app/components/ngInfiniteScroll/src/infinite-scroll.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/test/fixtures/test.js" />
+        <item url="file://$PROJECT_DIR$/app/components/ngInfiniteScroll/Gruntfile.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/browserify/node_modules/module-deps/node_modules/detective/node_modules/escodegen/node_modules/esutils/test/keyword.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/browserify/node_modules/module-deps/node_modules/detective/node_modules/escodegen/node_modules/esutils/test/code.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/browserify/test/coffee_bin/x.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/browserify/test/coffeeify/main.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/resolver/mug.js" />
+        <item url="file://$PROJECT_DIR$/app/js/app.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/browserify/node_modules/umd/node_modules/rfile/node_modules/resolve/test/resolver/mug.js" />
+        <item url="file://$PROJECT_DIR$/app/js/directives.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/gulp-jshint/node_modules/jshint/node_modules/cli/examples/static.js" />
+        <item url="file://$PROJECT_DIR$/app/js/services.js" />
+        <item url="file://$PROJECT_DIR$/app/js/routes.js" />
+        <item url="file://$PROJECT_DIR$/app/js/controllers.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/gulp-connect/src/index.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/gulp-coffee/test/fixtures/grammar.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/gulp-browserify/test/fixtures/transform.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/gulp-browserify/test/fixtures/trans_bar.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/gulp-browserify/node_modules/browserify/node_modules/umd/node_modules/rfile/node_modules/resolve/test/resolver/mug.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/gulp-browserify/test/fixtures/trans_foo.js" />
+        <item url="file://$PROJECT_DIR$/app/js/init.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/gulp-browserify/node_modules/browserify/node_modules/http-browserify/node_modules/Base64/test/base64.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/gulp-browserify/node_modules/browserify/node_modules/module-deps/node_modules/detective/node_modules/escodegen/node_modules/esutils/test/keyword.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/gulp-browserify/node_modules/browserify/node_modules/module-deps/node_modules/detective/node_modules/escodegen/node_modules/esutils/test/code.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/gulp-browserify/node_modules/browserify/node_modules/resolve/test/resolver/cup.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/gulp-browserify/node_modules/browserify/node_modules/umd/node_modules/rfile/node_modules/resolve/test/resolver/cup.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/gulp-browserify/node_modules/browserify/test/coffee_bin/main.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/gulp-browserify/node_modules/browserify/test/coffee_bin/x.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/gulp-browserify/node_modules/browserify/test/coffeeify/main.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/browserify/test/coffee_bin/main.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/gulp-watch/node_modules/vinyl-fs/node_modules/glob-stream/test/fixtures/test.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/gulp-watch/node_modules/vinyl-fs/node_modules/glob-watcher/test/fixtures/test.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/browserify/node_modules/http-browserify/node_modules/Base64/test/base64.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/gulp-browserify/node_modules/browserify/node_modules/resolve/test/resolver/mug.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/js/wat.js" />
+      <root url="file://$PROJECT_DIR$/app/js/wat.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/browserify/node_modules/resolve/test/resolver/mug.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/resolver/cup.js" />
+      <root url="file://$PROJECT_DIR$/app/components/ngInfiniteScroll/test/test_infinite_scroll_throttling.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/browserify/node_modules/umd/node_modules/rfile/node_modules/resolve/test/resolver/cup.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/test/fixtures/test.js" />
+      <root url="file://$PROJECT_DIR$/app/components/ngInfiniteScroll/test/test_infinite_scroll.js" />
+      <root url="file://$PROJECT_DIR$/app/components/ngInfiniteScroll/src/infinite-scroll.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/browserify/node_modules/resolve/test/resolver/cup.js" />
+      <root url="file://$PROJECT_DIR$/app/components/ngInfiniteScroll/Gruntfile.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/test/fixtures/test.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/browserify/node_modules/module-deps/node_modules/detective/node_modules/escodegen/node_modules/esutils/test/keyword.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/browserify/node_modules/module-deps/node_modules/detective/node_modules/escodegen/node_modules/esutils/test/code.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/browserify/test/coffee_bin/x.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/browserify/test/coffeeify/main.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/resolver/mug.js" />
+      <root url="file://$PROJECT_DIR$/app/js/app.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/browserify/node_modules/umd/node_modules/rfile/node_modules/resolve/test/resolver/mug.js" />
+      <root url="file://$PROJECT_DIR$/app/js/directives.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/gulp-jshint/node_modules/jshint/node_modules/cli/examples/static.js" />
+      <root url="file://$PROJECT_DIR$/app/js/services.js" />
+      <root url="file://$PROJECT_DIR$/app/js/routes.js" />
+      <root url="file://$PROJECT_DIR$/app/js/controllers.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/gulp-connect/src/index.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/gulp-coffee/test/fixtures/grammar.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/gulp-browserify/test/fixtures/transform.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/gulp-browserify/test/fixtures/trans_bar.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/gulp-browserify/test/fixtures/trans_foo.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/gulp-browserify/node_modules/browserify/node_modules/umd/node_modules/rfile/node_modules/resolve/test/resolver/mug.js" />
+      <root url="file://$PROJECT_DIR$/app/js/init.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/gulp-browserify/node_modules/browserify/node_modules/http-browserify/node_modules/Base64/test/base64.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/gulp-browserify/node_modules/browserify/node_modules/module-deps/node_modules/detective/node_modules/escodegen/node_modules/esutils/test/keyword.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/gulp-browserify/node_modules/browserify/node_modules/module-deps/node_modules/detective/node_modules/escodegen/node_modules/esutils/test/code.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/gulp-browserify/node_modules/browserify/node_modules/resolve/test/resolver/cup.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/gulp-browserify/node_modules/browserify/node_modules/umd/node_modules/rfile/node_modules/resolve/test/resolver/cup.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/gulp-browserify/node_modules/browserify/test/coffee_bin/main.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/gulp-browserify/node_modules/browserify/test/coffee_bin/x.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/gulp-browserify/node_modules/browserify/test/coffeeify/main.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/browserify/test/coffee_bin/main.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/gulp-watch/node_modules/vinyl-fs/node_modules/glob-stream/test/fixtures/test.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/gulp-watch/node_modules/vinyl-fs/node_modules/glob-watcher/test/fixtures/test.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/gulp-browserify/node_modules/browserify/node_modules/resolve/test/resolver/mug.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/browserify/node_modules/http-browserify/node_modules/Base64/test/base64.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
