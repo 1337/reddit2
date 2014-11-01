@@ -28,6 +28,11 @@
     "underscore": "~1.7.0",
     "requirejs": "~2.1.15",
     "imagesloaded": "~3.1.8",
-    "modernizr": "~2.8.3"
+    "modernizr": "~2.8.3",
+    "angular-bootstrap": "~0.11.2",
+    "foundation": "~5.4.7",
+    "angular-foundation": "~0.4.0",
+    "normalize.css": "~3.0.2",
+    "ngInfiniteScroll": "~1.1.2"
   }
 }

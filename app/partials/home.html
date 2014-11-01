@@ -1,3 +1,28 @@
-<p>
-    Hello {{ name }}!
-</p>
+<div ng-controller='FeedController'>
+    <div infinite-scroll='reddit.nextPage()'
+         infinite-scroll-disabled='reddit.loading'
+         infinite-scroll-distance='1'>
+
+        <div class="post" ng-repeat='item in reddit.items'>
+            <span class='title'>
+                <span class='score radius success label'>{{item.score}}</span>
+                <span class='score radius label'>{{item.subreddit}}</span>
+                <a ng-href='{{item.url}}' target='_blank'>{{item.title}}</a>
+            </span>
+            <div ng-if='getImageUrl(item.url)'>
+                <img ng-src="{{ getImageUrl(item.url) }}"
+                     alt="{{item.title}}"
+                     style="width:100%"/>
+            </div>
+            <div>
+                <small>{{item.author}} |
+                    <a ng-href='http://reddit.com{{item.permalink}}'
+                       target='_blank'>{{item.num_comments}} comments</a>
+                </small>
+            </div>
+        </div>
+        <div style='clear: both;'></div>
+
+        <div class="center" ng-show='reddit.loading'>Loading data...</div>
+    </div>
+</div>

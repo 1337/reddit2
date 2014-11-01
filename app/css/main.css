@@ -1,6 +1,6 @@
-.container {
-    background-color: red;
-
-    width: 300px;
-    height: 300px;
+.nav,
+.pagination,
+.carousel,
+.panel-title a {
+  cursor: pointer;
 }
