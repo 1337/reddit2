@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en" ng-app>
+<head>
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"/>
+
+    <!-- styles -->
+    <link rel="stylesheet" href="components/normalize.css/normalize.css"/>
+    <link rel="stylesheet" href="components/foundation/css/foundation.css"/>
+    <link rel="stylesheet" href="components/fontawesome/css/font-awesome.css"/>
+    <link rel="stylesheet" href="components/animate.css/animate.css"/>
+    <link rel="stylesheet" href="css/main.css"/>
+    <link rel="stylesheet" href="css/reddit.css"/>
+</head>
+<body>
+    <ng-include src="'partials/nav.html'"></ng-include>
+    <div class="container-fluid">
+        <!--[if lt IE 7]>
+        <p class="browsehappy">
+            You are using an <strong>outdated</strong> browser.
+            Please <a href="http://browsehappy.com/">upgrade your browser</a>
+            to improve your experience.
+        </p>
+        <![endif]-->
+
+        <div ng-view></div>
+    </div>
+    <script src="components/requirejs/require.js" data-main="js/init"></script>
+
+</body>
+</html>

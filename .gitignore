@@ -2,6 +2,5 @@
 app/components/
 dist/
 bundle.js
-index.html
 install.sh
 node_modules/
