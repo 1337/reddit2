@@ -1,10 +1,9 @@
 <div style="margin-top: 7px"
      infinite-scroll='reddit.nextPage()'
      infinite-scroll-disabled='reddit.loading'
-     infinite-scroll-distance='2'
-     masonry>
+     infinite-scroll-distance='2'>
 
-    <div class="post masonry-brick" data-images-loaded ng-repeat='item in reddit.items'>
+    <div class="post" data-images-loaded ng-repeat='item in reddit.items'>
         <span class='title'>
             <span class='radius success label score'>{{item.score}}</span>
             <span class='radius label subreddit'>{{item.subreddit}}</span>

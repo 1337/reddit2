@@ -20,6 +20,7 @@
       'angular-masonry': 'components/angular-masonry/angular-masonry',
       'angular-resource': 'components/angular-resource/angular-resource.min',
       'angular-route': 'components/angular-route/angular-route.min',
+      'angular-route-segment': 'components/angular-route-segment/angular-route-segment',
       'bootstrap': 'components/bootstrap/dist/js/bootstrap.min',
       'foundation': 'components/foundation/js/foundation.min',
       'imagesloaded': 'components/imagesloaded/imagesloaded.pkgd.min',
