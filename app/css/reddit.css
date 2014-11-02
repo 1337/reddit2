@@ -1,6 +1,10 @@
 body {
   background: #f0f0f0;
 }
+.loading {
+  text-align: center;
+  padding: 10px;
+}
 .post {
   background: #fff;
   box-shadow: 0px 3px 5px #d0d0d0;
@@ -27,4 +31,28 @@ body {
   font-size: 80%;
   line-height: 120%;
   color: 222;
+}
+.post .subreddit,
+.thread .subreddit {
+  border-bottom-right-radius: 0;
+  border-top-right-radius: 0;
+}
+.post .score,
+.thread .score {
+  border-bottom-left-radius: 0;
+  border-top-left-radius: 0;
+}
+.thread {
+  margin: 7px 7px 15px;
+}
+.thread .label {
+  float: right;
+}
+.comment {
+  margin-left: 5px;
+  padding: 5px 0 5px 5px;
+  border-left: 3px #ddd solid;
+}
+.comment p {
+  margin-bottom: 0;
 }

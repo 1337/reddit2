@@ -2,15 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02e32fab-c0ca-4c68-9688-031ab2a98a74" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/app.coffee" afterPath="$PROJECT_DIR$/app/js/app.coffee" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/app.js" afterPath="$PROJECT_DIR$/app/js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/partials/comment.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/partials/thread.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/partials/home.html" afterPath="$PROJECT_DIR$/app/partials/feed.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/controllers.coffee" afterPath="$PROJECT_DIR$/app/js/controllers.coffee" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/controllers.js" afterPath="$PROJECT_DIR$/app/js/controllers.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/partials/home.html" afterPath="$PROJECT_DIR$/app/partials/home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/init.coffee" afterPath="$PROJECT_DIR$/app/js/init.coffee" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/init.js" afterPath="$PROJECT_DIR$/app/js/init.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/css/reddit.css" afterPath="$PROJECT_DIR$/app/css/reddit.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/css/reddit.styl" afterPath="$PROJECT_DIR$/app/css/reddit.styl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/routes.coffee" afterPath="$PROJECT_DIR$/app/js/routes.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/routes.js" afterPath="$PROJECT_DIR$/app/js/routes.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/services.coffee" afterPath="$PROJECT_DIR$/app/js/services.coffee" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/services.js" afterPath="$PROJECT_DIR$/app/js/services.js" />
     </list>
@@ -34,29 +34,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="init.coffee" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="init.coffee" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/js/init.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="28" selection-start="1793" selection-end="1793" vertical-scroll-proportion="0.40986133" vertical-offset="294" max-vertical-offset="1517">
+            <state line="1" column="35" selection-start="118" selection-end="118" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1517">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="nav.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/partials/nav.html">
+      <file leaf-file-name="controllers.coffee" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/js/controllers.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="53" selection-start="821" selection-end="821" vertical-scroll-proportion="-14.608696" vertical-offset="0" max-vertical-offset="1116">
+            <state line="32" column="0" selection-start="1020" selection-end="1020" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1181">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/partials/home.html">
+      <file leaf-file-name="feed.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/partials/feed.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="30" selection-start="282" selection-end="282" vertical-scroll-proportion="-3.652174" vertical-offset="0" max-vertical-offset="1004">
+            <state line="28" column="20" selection-start="1269" selection-end="1269" vertical-scroll-proportion="-17.043478" vertical-offset="0" max-vertical-offset="1060">
               <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
               </folding>
@@ -67,25 +68,7 @@
       <file leaf-file-name="reddit.styl" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/css/reddit.styl">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="18" selection-start="458" selection-end="458" vertical-scroll-proportion="0.0" vertical-offset="1" max-vertical-offset="1055">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="13" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="705">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="routes.coffee" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/js/routes.coffee">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="7" selection-start="290" selection-end="290" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="747">
+            <state line="42" column="19" selection-start="695" selection-end="695" vertical-scroll-proportion="0.0" vertical-offset="252" max-vertical-offset="1419">
               <folding />
             </state>
           </provider>
@@ -94,25 +77,36 @@
       <file leaf-file-name="services.coffee" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/js/services.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="21" selection-start="494" selection-end="494" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1083">
+            <state line="16" column="24" selection-start="585" selection-end="585" vertical-scroll-proportion="0.0" vertical-offset="42" max-vertical-offset="1545">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="directives.coffee" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/js/directives.coffee">
+      <file leaf-file-name="thread.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/partials/thread.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="29" selection-start="149" selection-end="156" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="705">
+            <state line="7" column="35" selection-start="226" selection-end="226" vertical-scroll-proportion="-4.2608695" vertical-offset="0" max-vertical-offset="906">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="controllers.coffee" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/js/controllers.coffee">
+      <file leaf-file-name="comment.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/partials/comment.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="46" selection-end="46" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="999">
+            <state line="18" column="6" selection-start="704" selection-end="704" vertical-scroll-proportion="0.4025559" vertical-offset="0" max-vertical-offset="864">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="foundation.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/components/foundation/css/foundation.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3337" column="8" selection-start="93797" selection-end="93797" vertical-scroll-proportion="0.0" vertical-offset="46506" max-vertical-offset="86554">
               <folding />
             </state>
           </provider>
@@ -121,7 +115,16 @@
       <file leaf-file-name="app.coffee" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/js/app.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="100" selection-start="100" selection-end="100" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="845">
+            <state line="8" column="25" selection-start="361" selection-end="361" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="845">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="routes.coffee" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/js/routes.coffee">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="7" selection-start="509" selection-end="509" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="817">
               <folding />
             </state>
           </provider>
@@ -162,20 +165,23 @@
         <option value="$PROJECT_DIR$/app/js/reddit.directives.coffee" />
         <option value="$PROJECT_DIR$/app/js/reddit.controllers.coffee" />
         <option value="$PROJECT_DIR$/app/js/partials/home.html" />
-        <option value="$PROJECT_DIR$/app/js/routes.coffee" />
-        <option value="$PROJECT_DIR$/app/js/directives.coffee" />
         <option value="$PROJECT_DIR$/app/css/main.css" />
         <option value="$PROJECT_DIR$/bower.json" />
         <option value="$PROJECT_DIR$/app/partials/nav.html" />
         <option value="$PROJECT_DIR$/app/css/main.styl" />
         <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/app/js/controllers.coffee" />
-        <option value="$PROJECT_DIR$/app/js/services.coffee" />
-        <option value="$PROJECT_DIR$/app/css/reddit.styl" />
         <option value="$PROJECT_DIR$/app/partials/home.html" />
-        <option value="$PROJECT_DIR$/app/js/app.coffee" />
+        <option value="$PROJECT_DIR$/app/js/directives.coffee" />
         <option value="$PROJECT_DIR$/app/js/init.coffee" />
+        <option value="$PROJECT_DIR$/app/js/app.coffee" />
+        <option value="$PROJECT_DIR$/app/js/routes.coffee" />
+        <option value="$PROJECT_DIR$/app/css/reddit.styl" />
+        <option value="$PROJECT_DIR$/app/partials/thread.html" />
+        <option value="$PROJECT_DIR$/app/partials/comment.html" />
+        <option value="$PROJECT_DIR$/app/js/services.coffee" />
+        <option value="$PROJECT_DIR$/app/partials/feed.html" />
+        <option value="$PROJECT_DIR$/app/js/controllers.coffee" />
       </list>
     </option>
   </component>
@@ -211,6 +217,20 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="reddit2">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -300,6 +320,10 @@
               <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="routes.coffee" />
+              <option name="myItemType" value="com.intellij.plugins.watcher.projectView.NestingTreeNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -320,6 +344,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="init.coffee" />
+              <option name="myItemType" value="com.intellij.plugins.watcher.projectView.NestingTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reddit2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reddit2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="directives.coffee" />
               <option name="myItemType" value="com.intellij.plugins.watcher.projectView.NestingTreeNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -447,22 +493,34 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="angular-images-loaded" />
+              <option name="myItemId" value="foundation" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
           <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reddit2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="reddit2">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reddit2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="foundation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -583,9 +641,6 @@
       <option name="PARAMETERS" value="" />
       <method />
     </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
-      <method />
-    </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -607,6 +662,9 @@
       <option name="PUREUNITTEST" value="true" />
       <option name="PARAMS" value="" />
       <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
@@ -659,9 +717,10 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36530015" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295129" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18374817" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18228404" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -669,7 +728,6 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295129" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -693,18 +751,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/css/main.styl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="28">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/install.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="11" selection-start="22" selection-end="22" vertical-scroll-proportion="0.0" vertical-offset="28" max-vertical-offset="56" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="0" selection-start="218" selection-end="218" vertical-scroll-proportion="0.0" vertical-offset="168" max-vertical-offset="196" />
@@ -713,9 +759,7 @@
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="30" selection-start="80" selection-end="80" vertical-scroll-proportion="0.0" vertical-offset="56" max-vertical-offset="154">
-          <folding>
-            <marker date="1414875808711" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -737,9 +781,7 @@
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="30" selection-start="80" selection-end="80" vertical-scroll-proportion="0.0" vertical-offset="56" max-vertical-offset="154">
-          <folding>
-            <marker date="1414875808711" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -761,9 +803,7 @@
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="30" selection-start="80" selection-end="80" vertical-scroll-proportion="0.0" vertical-offset="56" max-vertical-offset="154">
-          <folding>
-            <marker date="1414875808711" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -785,9 +825,7 @@
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="30" selection-start="80" selection-end="80" vertical-scroll-proportion="0.0" vertical-offset="56" max-vertical-offset="154">
-          <folding>
-            <marker date="1414875808711" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -832,16 +870,6 @@
         <state line="2" column="1" selection-start="36" selection-end="36" vertical-scroll-proportion="0.041728765" vertical-offset="0" max-vertical-offset="685" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/js/controllers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="825" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="396" selection-end="396" vertical-scroll-proportion="0.20864381" vertical-offset="0" max-vertical-offset="797" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="0" selection-start="66" selection-end="66" vertical-scroll-proportion="0.101341285" vertical-offset="2" max-vertical-offset="741">
@@ -854,9 +882,7 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="75" selection-end="75" vertical-scroll-proportion="0.08988764" vertical-offset="0" max-vertical-offset="665">
-          <folding />
-        </state>
+        <state line="4" column="0" selection-start="75" selection-end="75" vertical-scroll-proportion="0.08988764" vertical-offset="0" max-vertical-offset="665" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/components/bootstrap/dist/css/bootstrap.css">
@@ -890,13 +916,6 @@
     <entry file="file://$PROJECT_DIR$/app/components/angular-foundation/mm-foundation-tpls.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="748" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/components/foundation/css/foundation.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="86554">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/components/normalize.css/normalize.css">
@@ -946,9 +965,7 @@
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="47" selection-start="586" selection-end="586" vertical-scroll-proportion="0.2683706" vertical-offset="0" max-vertical-offset="1032">
-          <folding>
-            <marker date="1414875808711" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -966,69 +983,107 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/js/routes.coffee">
+    <entry file="file://$PROJECT_DIR$/app/js/controllers.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="7" selection-start="290" selection-end="290" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="747">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="910">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="531" selection-end="531" vertical-scroll-proportion="0.3448276" vertical-offset="0" max-vertical-offset="532">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/partials/nav.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="53" selection-start="821" selection-end="821" vertical-scroll-proportion="-14.608696" vertical-offset="0" max-vertical-offset="1138">
+        <state line="24" column="53" selection-start="821" selection-end="821" vertical-scroll-proportion="0.22966507" vertical-offset="240" max-vertical-offset="908">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/js/directives.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="29" selection-start="149" selection-end="156" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="727">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/js/services.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="21" selection-start="494" selection-end="494" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1083">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/css/reddit.styl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="18" selection-start="458" selection-end="458" vertical-scroll-proportion="0.0" vertical-offset="1" max-vertical-offset="1055">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/partials/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="30" selection-start="282" selection-end="282" vertical-scroll-proportion="-3.652174" vertical-offset="0" max-vertical-offset="1004">
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/js/controllers.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="46" selection-end="46" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="999">
+        <state line="1" column="5" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="727">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/js/app.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="100" selection-start="100" selection-end="100" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="845">
+        <state line="8" column="25" selection-start="361" selection-end="361" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="867">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/services.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="24" selection-start="585" selection-end="585" vertical-scroll-proportion="0.0" vertical-offset="42" max-vertical-offset="1545">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/js/init.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="28" selection-start="1793" selection-end="1793" vertical-scroll-proportion="0.40986133" vertical-offset="294" max-vertical-offset="1517">
+        <state line="1" column="35" selection-start="118" selection-end="118" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1309">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/css/reddit.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="19" selection-start="695" selection-end="695" vertical-scroll-proportion="0.0" vertical-offset="252" max-vertical-offset="1419">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/controllers.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="0" selection-start="1020" selection-end="1020" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1181">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/partials/thread.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="35" selection-start="226" selection-end="226" vertical-scroll-proportion="-4.2608695" vertical-offset="0" max-vertical-offset="906">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/routes.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="7" selection-start="509" selection-end="509" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="817">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/foundation/css/foundation.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3337" column="8" selection-start="93797" selection-end="93797" vertical-scroll-proportion="0.0" vertical-offset="46506" max-vertical-offset="86554">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/partials/feed.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="20" selection-start="1269" selection-end="1269" vertical-scroll-proportion="-17.043478" vertical-offset="0" max-vertical-offset="1060">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/partials/comment.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="6" selection-start="704" selection-end="704" vertical-scroll-proportion="0.4025559" vertical-offset="0" max-vertical-offset="864">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

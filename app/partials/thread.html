@@ -1,0 +1,22 @@
+
+<div class="thread">
+    <span class='title'>
+        <span class='radius success label score'>
+            {{thread.op.score}}
+        </span>
+        <span class='radius label subreddit'>
+            {{thread.op.subreddit}}
+        </span>
+        <a ng-href='http://reddit.com{{thread.op.permalink}}' target='_blank'>
+            {{thread.op.title}}
+        </a>
+    </span>
+
+    <div ng-repeat='comment in thread.comments'>
+        <div ng-if="comment.data.replies.data.children.length">
+            <div ng-repeat="comment in comment.data.replies.data.children"
+                 ng-include="'partials/comment.html'">
+             </div>
+        </div>
+    </div>
+</div>

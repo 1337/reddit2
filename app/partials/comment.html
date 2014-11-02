@@ -1,0 +1,19 @@
+<div class="comment">
+    <div ng-if="comment.data.body && (comment.data.ups - comment.data.downs) >= 10">
+        <div class="secondary label" style="float: right">
+            {{ comment.data.ups - comment.data.downs }}
+        </div>
+        <div ng-bind-html="safeText(comment.data.body_html)"></div>
+        <small> -
+            <a ng-href="http://reddit.com/u/{{ comment.data.author }}">
+                {{ comment.data.author }}
+            </a>
+        </small>
+    </div>
+
+    <!-- children (nested) -->
+    <div ng-if="comment.data.replies.data.children.length"
+         ng-repeat="comment in comment.data.replies.data.children"
+         ng-include="'partials/comment.html'">
+    </div>
+</div>

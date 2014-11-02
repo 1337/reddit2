@@ -1,12 +1,13 @@
 <div ng-controller='FeedController'>
-    <div infinite-scroll='reddit.nextPage()'
+    <div style="margin-top: 7px"
+         infinite-scroll='reddit.nextPage()'
          infinite-scroll-disabled='reddit.loading'
-         infinite-scroll-distance='1'>
+         infinite-scroll-distance='2'>
 
         <div class="post" data-images-loaded ng-repeat='item in reddit.items'>
             <span class='title'>
-                <span class='score radius success label'>{{item.score}}</span>
-                <span class='score radius label'>{{item.subreddit}}</span>
+                <span class='radius success label score'>{{item.score}}</span>
+                <span class='radius label subreddit'>{{item.subreddit}}</span>
                 <a ng-href='{{item.url}}' target='_blank'>{{item.title}}</a>
             </span>
             <div ng-if='getImageUrl(item.url)'>
@@ -17,13 +18,16 @@
             <div ng-bind-html="item.selftext_html"></div>
             <div>
                 <small>{{item.author}} |
-                    <a ng-href='http://reddit.com{{item.permalink}}'
-                       target='_blank'>{{item.num_comments}} comments</a>
+                    <!-- a ng-href='http://reddit.com{{item.permalink}}'
+                       target='_blank'>{{item.num_comments}} comments</a -->
+                    <a ng-href='#/thread{{item.permalink}}'>
+                        {{item.num_comments}} comments
+                    </a>
                 </small>
             </div>
         </div>
         <div style='clear: both;'></div>
 
-        <div class="center" ng-show='reddit.loading'>Loading data...</div>
+        <div class="loading center" ng-show='reddit.loading'>Loading data...</div>
     </div>
 </div>

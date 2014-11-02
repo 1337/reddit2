@@ -1,4 +1,4 @@
-define ['angular'], (angular) ->
+define ['angular', 'underscore'], (angular, _) ->
     module = angular.module('Reddit2.services', [])
 
     safeText = (text="") ->
@@ -18,7 +18,7 @@ define ['angular'], (angular) ->
                 if @loading
                     return
                 @loading = true
-                url = "http://api.reddit.com/hot?after=#{@after}&jsonp=JSON_CALLBACK"
+                url = "https://reddit.com/r/funny+pics+wtf+aww+adviceanimals/.json?after=#{@after}&jsonp=JSON_CALLBACK"
                 $http.jsonp(url).success (data) =>
                     items = data.data.children
                     for item in items
@@ -30,4 +30,37 @@ define ['angular'], (angular) ->
                     @loading = false
 
         _Reddit
+    ]
+
+
+    # comments fetching
+    module.factory "Thread", ['$http', '$sce', ($http, $sce) ->
+        class _Thread
+            constructor: (permalink) ->
+                @comments = []
+
+                if permalink[0] != '/'
+                    permalink = '/' + permalink
+
+                @url = "https://reddit.com#{permalink}.json?jsonp=JSON_CALLBACK"
+                @fetch()
+
+            fetch: ->
+                $http.jsonp(@url).success (resp) =>
+                    # tame reddit's lame json format
+                    root = resp
+                    if resp.length
+                        root = resp[1]  # for a direct GET, [0] is the actual post
+
+                    # it is always one of those
+                    comments = root?.data?.children or root?.data?.replies
+
+                    # here's me not giving a flying fuck
+                    comments = _.sortBy(comments, ((c) ->
+                        1e5 - c.data.ups + c.data.downs))
+
+                    @op = resp[0].data.children[0].data
+                    @comments = comments
+
+        _Thread
     ]

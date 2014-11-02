@@ -4,8 +4,12 @@
     app.config([
       "$routeProvider", function($routeProvider) {
         $routeProvider.when("/home", {
-          templateUrl: "partials/home.html",
+          templateUrl: "partials/feed.html",
           controller: "HomeController"
+        });
+        $routeProvider.when("/thread/:permalink*", {
+          templateUrl: "partials/thread.html",
+          controller: "ThreadController"
         });
         return $routeProvider.otherwise({
           redirectTo: "/home"
