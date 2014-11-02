@@ -1,4 +1,4 @@
-define ['angular', 'angular-route', 'angular-resource', 'angular-foundation', 'angular-images-loaded', 'angular-infinite-scroll'
+define ['angular', 'angular-route', 'angular-resource', 'angular-foundation', 'angular-images-loaded', 'angular-infinite-scroll', 'angular-masonry', 'angular-localforage'
         'controllers', 'directives', 'services'], (angular) ->
 
     # update this list if you get this:
@@ -6,7 +6,9 @@ define ['angular', 'angular-route', 'angular-resource', 'angular-foundation', 'a
     dependencies = [
         'ngResource'
         'ngRoute'
+        'LocalForageModule'
         'infinite-scroll'
+        'wu.masonry'
         'Reddit2.controllers'
         'Reddit2.directives'
         'Reddit2.services'

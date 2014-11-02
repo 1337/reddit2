@@ -16,7 +16,9 @@
       '$http', '$sce', function($http, $sce) {
         var _Reddit;
         _Reddit = (function() {
-          function _Reddit() {}
+          function _Reddit(subreddits) {
+            this.subreddits = subreddits != null ? subreddits : 'funny+pics+wtf+aww+adviceanimals';
+          }
 
           _Reddit.prototype.items = [];
 
@@ -30,7 +32,7 @@
               return;
             }
             this.loading = true;
-            url = "https://reddit.com/r/funny+pics+wtf+aww+adviceanimals/.json?after=" + this.after + "&jsonp=JSON_CALLBACK";
+            url = "https://reddit.com/r/" + this.subreddits + "/.json?after=" + this.after + "&jsonp=JSON_CALLBACK";
             return $http.jsonp(url).success((function(_this) {
               return function(data) {
                 var item, items, _i, _item, _len;

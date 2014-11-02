@@ -1,33 +1,32 @@
-<div ng-controller='FeedController'>
-    <div style="margin-top: 7px"
-         infinite-scroll='reddit.nextPage()'
-         infinite-scroll-disabled='reddit.loading'
-         infinite-scroll-distance='2'>
+<div style="margin-top: 7px"
+     infinite-scroll='reddit.nextPage()'
+     infinite-scroll-disabled='reddit.loading'
+     infinite-scroll-distance='2'
+     masonry>
 
-        <div class="post" data-images-loaded ng-repeat='item in reddit.items'>
-            <span class='title'>
-                <span class='radius success label score'>{{item.score}}</span>
-                <span class='radius label subreddit'>{{item.subreddit}}</span>
-                <a ng-href='{{item.url}}' target='_blank'>{{item.title}}</a>
-            </span>
-            <div ng-if='getImageUrl(item.url)'>
-                <img ng-src="{{ getImageUrl(item.url) }}"
-                     alt="{{item.title}}"
-                     style="width:100%"/>
-            </div>
-            <div ng-bind-html="item.selftext_html"></div>
-            <div>
-                <small>{{item.author}} |
-                    <!-- a ng-href='http://reddit.com{{item.permalink}}'
-                       target='_blank'>{{item.num_comments}} comments</a -->
-                    <a ng-href='#/thread{{item.permalink}}'>
-                        {{item.num_comments}} comments
-                    </a>
-                </small>
-            </div>
+    <div class="post masonry-brick" data-images-loaded ng-repeat='item in reddit.items'>
+        <span class='title'>
+            <span class='radius success label score'>{{item.score}}</span>
+            <span class='radius label subreddit'>{{item.subreddit}}</span>
+            <a ng-href='{{item.url}}' target='_blank'>{{item.title}}</a>
+        </span>
+        <div ng-if='getImageUrl(item.url)'>
+            <img ng-src="{{ getImageUrl(item.url) }}"
+                 alt="{{item.title}}"
+                 style="width:100%"/>
         </div>
-        <div style='clear: both;'></div>
-
-        <div class="loading center" ng-show='reddit.loading'>Loading data...</div>
+        <div ng-bind-html="item.selftext_html"></div>
+        <div>
+            <small>{{item.author}} |
+                <!-- a ng-href='http://reddit.com{{item.permalink}}'
+                   target='_blank'>{{item.num_comments}} comments</a -->
+                <a ng-href='#/comments{{item.permalink}}'>
+                    {{item.num_comments}} comments
+                </a>
+            </small>
+        </div>
     </div>
+    <div style='clear: both;'></div>
+
+    <div class="loading center" ng-show='reddit.loading'>Loading data...</div>
 </div>

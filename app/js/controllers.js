@@ -21,14 +21,11 @@
         return url;
       }
     };
-    module.controller('HomeController', [
-      '$scope', function($scope) {
-        return $scope.name = 'Reddit';
-      }
-    ]);
     module.controller("FeedController", [
-      '$scope', 'Reddit', function($scope, Reddit) {
-        $scope.reddit = new Reddit();
+      '$scope', '$routeParams', 'Reddit', function($scope, $routeParams, Reddit) {
+        var subreddits;
+        subreddits = $routeParams.subreddits;
+        $scope.reddit = new Reddit(subreddits);
         $scope.getImageUrl = getImageUrl;
         return console.debug('reddit initialised');
       }

@@ -11,6 +11,7 @@ define ['angular', 'underscore'], (angular, _) ->
         # https://binarymuse.github.io/ngInfiniteScroll/demo_async.html
         # (modified)
         class _Reddit
+            constructor: (@subreddits='funny+pics+wtf+aww+adviceanimals') ->
             items: []
             loading: false
             after: ""
@@ -18,7 +19,7 @@ define ['angular', 'underscore'], (angular, _) ->
                 if @loading
                     return
                 @loading = true
-                url = "https://reddit.com/r/funny+pics+wtf+aww+adviceanimals/.json?after=#{@after}&jsonp=JSON_CALLBACK"
+                url = "https://reddit.com/r/#{@subreddits}/.json?after=#{@after}&jsonp=JSON_CALLBACK"
                 $http.jsonp(url).success (data) =>
                     items = data.data.children
                     for item in items

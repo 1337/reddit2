@@ -16,12 +16,9 @@ define ['angular', 'jquery'], (angular, $) ->
         if extension in ['jpg', 'gif', 'png']
             url
 
-    module.controller 'HomeController', ['$scope', ($scope) ->
-        $scope.name = 'Reddit'
-    ]
-
-    module.controller "FeedController", ['$scope', 'Reddit', ($scope, Reddit) ->
-        $scope.reddit = new Reddit()
+    module.controller "FeedController", ['$scope', '$routeParams', 'Reddit', ($scope, $routeParams, Reddit) ->
+        subreddits = $routeParams.subreddits
+        $scope.reddit = new Reddit(subreddits)
         $scope.getImageUrl = getImageUrl
 
         console.debug 'reddit initialised'

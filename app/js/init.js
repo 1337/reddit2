@@ -16,12 +16,16 @@
       'angular-foundation-tpls': 'components/angular-foundation/mm-foundation-tpls.min',
       'angular-images-loaded': 'components/angular-images-loaded/imagesLoaded.min',
       'angular-infinite-scroll': 'components/ngInfiniteScroll/build/ng-infinite-scroll.min',
+      'angular-localforage': 'components/angular-localforage/dist/angular-localForage.min',
+      'angular-masonry': 'components/angular-masonry/angular-masonry',
       'angular-resource': 'components/angular-resource/angular-resource.min',
       'angular-route': 'components/angular-route/angular-route.min',
       'bootstrap': 'components/bootstrap/dist/js/bootstrap.min',
       'foundation': 'components/foundation/js/foundation.min',
       'imagesloaded': 'components/imagesloaded/imagesloaded.pkgd.min',
       'jquery': 'components/jquery/dist/jquery.min',
+      'localforage': 'components/localforage/dist/localforage.min',
+      'masonry': 'components/masonry/dist/masonry.pkgd.min',
       'modernizr': 'components/modernizr/modernizr',
       'underscore': 'components/underscore/underscore-min'
     },
@@ -48,6 +52,12 @@
       'angular-infinite-scroll': {
         deps: ['angular']
       },
+      'angular-localforage': {
+        deps: ['angular', 'localforage']
+      },
+      'angular-masonry': {
+        deps: ['angular', 'masonry']
+      },
       'angular-resource': {
         deps: ['angular']
       },
@@ -59,6 +69,12 @@
       },
       'foundation': {
         deps: ['jquery']
+      },
+      'imagesloaded': {
+        exports: 'imagesLoaded'
+      },
+      'masonry': {
+        deps: ['jquery', 'imagesloaded']
       },
       'imagesloaded': {
         exports: 'imagesLoaded'

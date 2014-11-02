@@ -5,9 +5,13 @@
       "$routeProvider", function($routeProvider) {
         $routeProvider.when("/home", {
           templateUrl: "partials/feed.html",
-          controller: "HomeController"
+          controller: "FeedController"
         });
-        $routeProvider.when("/thread/:permalink*", {
+        $routeProvider.when("/r/:subreddits", {
+          templateUrl: "partials/feed.html",
+          controller: "FeedController"
+        });
+        $routeProvider.when("/comments/:permalink*", {
           templateUrl: "partials/thread.html",
           controller: "ThreadController"
         });
